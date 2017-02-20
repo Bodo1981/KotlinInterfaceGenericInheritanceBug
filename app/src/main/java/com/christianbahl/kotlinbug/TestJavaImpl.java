@@ -6,7 +6,7 @@ import java.util.List;
  * Created by cbahl on 20.02.17.
  */
 
-public class TestJavaImpl implements IWithGeneric<IString> {
+public class TestJavaImpl implements IWithGeneric {
   @Override public void test(List<String> test) {
 
   }
